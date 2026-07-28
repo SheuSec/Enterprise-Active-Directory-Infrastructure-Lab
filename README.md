@@ -840,8 +840,8 @@ I enjoy building practical lab environments that strengthen my understanding of 
 
 ### Connect with Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- GitHub:(https://github.com/SheuSec)
+- LinkedIn:www.linkedin.com/in/sheu-abduljelil-olamide
 
 ---
 
