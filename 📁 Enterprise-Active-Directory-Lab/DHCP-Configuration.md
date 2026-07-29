@@ -64,3 +64,4 @@ Watching the Windows 10 client automatically receive its IP configuration reinfo
 ## Screenshots
 
 The following screenshots support this stage:
+https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/Screenshots/Screenshots%20DHCP-Configuration.md.pdf
