@@ -47,3 +47,4 @@ The completed network provided a secure and reliable foundation for the deployme
 ---
 
 ## Screenshots
+📁 Enterprise-Active-Directory-Lab/Screenshots Network Design.pdf
