@@ -55,4 +55,4 @@ Taking the time to verify the installation before proceeding reflects a common e
 ## Screenshots
 
 Include the following screenshots to support this stage:
-https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/%F0%9F%93%81%20Enterprise-Active-Directory-Lab/Screenshots%20Installing%20Windows%20Server%202022.pdf
+(https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/Screenshots/Screenshots%20Installing%20Windows%20Server%202022.pdf)
