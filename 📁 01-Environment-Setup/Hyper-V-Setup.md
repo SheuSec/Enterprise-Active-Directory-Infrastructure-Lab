@@ -61,12 +61,5 @@ The Hyper-V environment was successfully prepared and provided the infrastructur
 ---
 
 ## Screenshots
-
-Add the following screenshots:
-
-- Hyper-V Manager
-- Virtual Machine Configuration
-- Virtual Machines List
-- Hyper-V Virtual Switch Manager
-
+https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/Screenshots%20Hyper-V%20Setup.pdf
 ---
