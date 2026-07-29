@@ -51,5 +51,6 @@ Using an Internal Virtual Switch also allowed me to experiment with enterprise t
 
 ## Screenshots
 
-The following screenshots support this stage of the deployment:
+The following screenshot support this stage of the deployment:
+https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/%F0%9F%93%81%20Enterprise-Active-Directory-Lab/Screenshots%20Hyper-V-Internal-Virtual-Switch.pdf
 
