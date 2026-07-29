@@ -53,4 +53,4 @@ Although renaming the server and configuring a static IP address are relatively 
 ## Screenshots
 
 Include the following screenshots to support this stage:
-https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/%F0%9F%93%81%20Enterprise-Active-Directory-Lab/Screenshots%20Initial-Server-Configuration.pdf
+https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/Screenshots/Screenshots%20Initial-Server-Configuration.pdf
