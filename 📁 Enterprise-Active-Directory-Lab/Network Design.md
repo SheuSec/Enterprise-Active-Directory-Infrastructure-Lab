@@ -47,4 +47,4 @@ The completed network provided a secure and reliable foundation for the deployme
 ---
 
 ## Screenshots
-📁 Enterprise-Active-Directory-Lab/Screenshots Network Design.pdf
+(https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/%F0%9F%93%81%20Enterprise-Active-Directory-Lab/Screenshots%20Network%20Design.pdf)
