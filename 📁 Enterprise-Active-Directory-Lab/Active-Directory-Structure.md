@@ -59,3 +59,4 @@ Building the directory structure also highlighted the importance of planning. Or
 ## Screenshots
 
 The following screenshots support this stage:
+https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/Screenshots/Screenshots%20Active-Directory-Structure.pdf
