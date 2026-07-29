@@ -54,4 +54,5 @@ This design closely reflects how many organizations separate development and tes
 ## Screenshots
 
 Include the following screenshot to support this stage:
+https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/%F0%9F%93%81%20Enterprise-Active-Directory-Lab/Screenshots%20Configuring%20Network%20Address%20Translation.pdf
 
