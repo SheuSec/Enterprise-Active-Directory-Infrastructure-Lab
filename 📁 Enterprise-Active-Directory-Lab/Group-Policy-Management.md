@@ -62,5 +62,6 @@ Seeing the configured policies successfully applied to the Windows 10 client hig
 ## Screenshots
 
 The following screenshots support this stage:
+https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/Screenshots/Screenshots%20Group-Policy-Management.md.pdf
 
 
