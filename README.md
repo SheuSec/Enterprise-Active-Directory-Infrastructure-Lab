@@ -4,7 +4,7 @@
 
 This project documents the planning, deployment, configuration, and validation of a Windows-based enterprise network built using Microsoft Hyper-V. The objective was to design and implement a secure, fully functional Active Directory environment that reflects the core infrastructure commonly found in modern organizations.
 
-The deployment began with the creation of an isolated virtual network, followed by the installation and configuration of Windows Server 2022 as the Domain Controller. Core enterprise services—including Active Directory Domain Services (AD DS), Domain Name System (DNS), and Dynamic Host Configuration Protocol (DHCP)—were implemented to provide centralized authentication, name resolution, and automated network configuration.
+The deployment began with the creation of an isolated virtual network, followed by the installation and configuration of Windows Server 2022 as the Domain Controller. Core enterprise services—including Active Directory Domain Services (AD DS), Domain Name System (DNS), and Dynamic Host Configuration Protocol (DHCP) were implemented to provide centralized authentication, name resolution, and automated network configuration.
 
 To simulate a real-world enterprise environment, Organizational Units (OUs), domain users, security groups, and shared folders were created. NTFS and Share Permissions were configured to control access to network resources, while Group Policy Objects (GPOs) were used to enforce enterprise security settings such as password policies, account lockout policies, and interactive logon messages.
 
@@ -18,7 +18,7 @@ This project strengthened my practical skills in Windows Server Administration, 
 
 The goal of this project was to build a complete enterprise Active Directory environment from the ground up while gaining hands-on experience with the technologies that power modern Windows networks.
 
-Rather than focusing solely on installing Windows Server, this project followed the complete deployment lifecycle—from designing the virtual infrastructure and configuring core network services to securing the environment and validating the final implementation.
+Rather than focusing solely on installing Windows Server, this project followed the complete deployment lifecycle from designing the virtual infrastructure and configuring core network services to securing the environment and validating the final implementation.
 
 The lab was built using Microsoft Hyper-V and consisted of three virtual machines:
 
