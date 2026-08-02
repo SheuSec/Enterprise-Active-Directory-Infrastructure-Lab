@@ -57,4 +57,4 @@ Testing access from multiple domain user accounts also provided a practical unde
 ## Screenshots
 
 The following screenshots support this stage:
-
+https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/Screenshots/Screenshots%20File-Services-and-Shared-Resources.md.pdf
