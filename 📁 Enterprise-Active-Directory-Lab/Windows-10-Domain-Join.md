@@ -61,4 +61,4 @@ Successfully signing in with a domain account and accessing centrally managed re
 
 The following screenshots support this stage:
 
-
+https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/Screenshots/Screenshots%20Windows-10-Domain-Join.md.pdf
