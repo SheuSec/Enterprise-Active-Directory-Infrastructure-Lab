@@ -63,5 +63,4 @@ Beyond the technical implementation, this experience strengthened my ability to 
 ## Screenshots
 
 The following screenshots support this stage:
-
-
+https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/Screenshots/Screenshots%20Testing-and-Validation%20.pdf
