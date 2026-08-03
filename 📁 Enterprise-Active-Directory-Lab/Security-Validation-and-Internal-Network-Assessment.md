@@ -56,4 +56,4 @@ Completing this assessment provided confidence that the Active Directory environ
 
 ## Screenshots
 The following screenshots support this stage:
-
+https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/Screenshots/Screenshots%20Security-Validation-and-Internal-Network-Assessment.md.pdf
