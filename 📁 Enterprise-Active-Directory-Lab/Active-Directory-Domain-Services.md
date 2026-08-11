@@ -63,5 +63,5 @@ Seeing the domain come online and successfully signing in after the promotion pr
 
 ## Screenshots
 
-Include the following screenshots to support this stage:
+The following screenshots support this stage:
 https://github.com/SheuSec/Enterprise-Active-Directory-Infrastructure-Lab/blob/main/Screenshots/Screenshots%20Deploying%20Active%20Directory%20Domain%20Services.pdf
